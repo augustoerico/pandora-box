@@ -14,6 +14,8 @@ A "mystery" generator
 9. The Crook Cops
 10. The Idiots Convention
 11. The Red Comrades
+12. The Serial Killer
+13. The Human Traffic Pirates
 
 * in the mission, you may, or may not, enconter a NPC related to the groups: you may enconter only a bunch of dead corpses or an abandoned facility
 
